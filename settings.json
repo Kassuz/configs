@@ -1,0 +1,23 @@
+{
+    "C_Cpp.intelliSenseEngine": "Default",
+    "window.zoomLevel": 1,
+
+    "editor.tokenColorCustomizations": 
+    {
+        "textMateRules": 
+        [
+            {
+                "scope": [
+                    "meta.preprocessor",
+                    "entity.name.function.preprocessor"
+                ],
+                "settings": {
+                    "foreground": "#b558d1"
+                }
+            }
+        ]
+    },
+    "editor.codeLens": false,
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+}
